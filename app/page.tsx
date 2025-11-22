@@ -1,4 +1,5 @@
 // pages/index.js
+import Image from "next/image";
 import React from "react";
 
 export default function Home() {
@@ -8,7 +9,12 @@ export default function Home() {
         <h1 className="text-2xl sm:text-3xl font-bold text-blue-900 mb-6">
           Contact K2 Natural Trust
         </h1>
+        <div className=" text-center">
 
+       
+
+             <Image src={"/salajit.png"} width={150} height={150} className="mx-auto" />
+              </div>
         <a
           href="https://wa.me/923424451804"
           target="_blank"
