@@ -9,17 +9,17 @@ export default function Home() {
           Contact K2 Natural Trust
         </h1>
 
-        {/* WhatsApp Buttons */}
         <a
-          href="https://wa.me/03424451804"
+          href="https://wa.me/923424451804"
           target="_blank"
           rel="noopener noreferrer"
           className="block bg-blue-900 text-white font-semibold py-4 rounded-xl mb-4 hover:bg-yellow-700 transition-colors text-lg sm:text-xl"
         >
           WhatsApp: 03424451804
         </a>
+
         <a
-          href="https://wa.me/03554519875"
+          href="https://wa.me/923554519875"
           target="_blank"
           rel="noopener noreferrer"
           className="block bg-blue-900 text-white font-semibold py-4 rounded-xl mb-4 hover:bg-yellow-700 transition-colors text-lg sm:text-xl"
